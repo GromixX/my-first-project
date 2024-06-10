@@ -1,31 +1,91 @@
 <!DOCTYPE html>
 <html style="width:100%; height:100%">
 <head>
+<link href='https://fonts.googleapis.com/css?family=Macondo' rel='stylesheet'> 
 <title>Page Title</title>
 <style>
-    div {
-      border: 1px solid black;
-      margin: 20px;
-    }
+
+  .clickable:hover {
+    cursor: pointer;
+  }
+	
+	.left_block {
+		border: 3px dotted black;
+		border-radius: 32px;
+		font-family: 'Macondo', sans-serif; 
+		font-size: 32px; 
+		padding-left:15px; 
+		padding-right:15px;
+		
+	}
+	
+	
+	.icons_link {
+		background-color:#DDBBBB;
+		border-radius:16px;
+		padding:3px;
+		/*margin-left:15px;
+		margin-right:15px;
+		margin-top:15px;*/
+	}
+	
+	.dots_block {
+	flex-grow:1; border-bottom: 3px dotted black; margin-bottom: 10px;
+	}
   </style>
 </head>
-<body style="width:100%; height:100%; margin:0;">
+<body style="width:100%; height:100%; margin:0px;">
 
-<div style="display: flex; height:100%; margin:0">
-	<div> 
-		<div> Логотип
+<div style="display: flex; height:100%;  background-color:#EEFFCC;">
+	<div style="flex-grow: 1; display:flex; flex-direction: column; justify-content:space-between;"> 
+		<div style="margin:15px;">
+			<img src="img/svg/logo.svg" alt="Logo" class="clickable">
 		</div>
-		<div> Средние и списки
+		<div style="background-color:#DDBBBB; border-radius:32px; border-bottom-left-radius:0; padding:15px; flex-grow:1; display: flex; flex-direction: column; justify-content:space-between;">
+			<div class="left_block" style="font-family: 'Inter', sans-serif; margin-bottom:15px;">
+				<p>attempts: <span  style="font-family: 'Macondo', sans-serif;">4</span></p>
+				<p>avg: <span  style="font-family: 'Macondo', sans-serif;">27.63</span></p>
+			</div>
+			<div class="left_block" style="flex-grow:1; display: flex; flex-direction: column; gap: 32px; padding-top: 20px">
+				<div style="display: flex; justify-content:space-between;">
+					<div>4)</div>
+					<div class="dots_block"></div>
+					<div>30.08</div>
+				</div>
+				<div style="display: flex; justify-content:space-between;">
+					<div>3)</div>
+					<div class="dots_block"></div>
+					<div>20.08</div>
+				</div>
+				<div style="display: flex; justify-content:space-between;">
+					<div>2)</div>
+					<div class="dots_block"></div>
+					<div>10.09</div>
+				</div>
+				<div style="display: flex; justify-content:space-between;">
+					<div>1)</div>
+					<div class="dots_block"></div>
+					<div>52.35</div>
+				</div>
+			</div>
 		</div>
 	</div>
-	<div style="flex-grow: 1;"> 
-		<div> Секунды
+	<div style="flex-grow: 14; text-align: center; display:flex; flex-direction: column; justify-content:space-between;"> 
+		<div> 
+			<p style="font-family: 'Inter', sans-serif; font-weight: bold; font-size: 48px;">Solve rubics cube</p>
 		</div>
-		<div> Кнопка
+		<div> 
+			<p style="font-family: 'Macondo', sans-serif; font-size: 96px;">0.00</p>
+		</div>
+		
+		<div style="display: flex; justify-content: flex-end; gap:25px; margin-right:25px;"> 
+			<p><a href="https://google.com" target="_blank"><img class="icons_link" src="img/svg/icon_phone.svg" alt="icon_phone"></a></p>
+			<p><a href="https://google.com" target="_blank"><img class="icons_link" src="img/svg/icon_share.svg" alt="icon_share"></a></p>
+			<p><a href="https://google.com" target="_blank"><img class="icons_link" src="img/svg/icon_email.svg" alt="icon_email"></a></p>
 		</div>
 	</div>
-
 </div>
+
 
 </body>
 </html>
