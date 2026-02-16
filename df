@@ -1,0 +1,160 @@
+[33mcommit bc9918c31e439a087d055b1302c61384c09e32d0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbranch-2[m[33m)[m
+Author: Alexey <ggromx.89@gmail.com>
+Date:   Tue Feb 17 01:48:54 2026 +0700
+
+    Сохранил текущие изменения
+
+[33mcommit b49eb5eb55b0a99398a8aabeeb807f2eb6b495f4[m[33m ([m[1;31morigin/branch-2[m[33m)[m
+Author: Alexey <ggromx.89@gmail.com>
+Date:   Thu Jun 13 01:12:31 2024 +0400
+
+    test2
+
+[33mcommit 0712c9aa9706ed2c3cc885d05e1d1e8dbec59d46[m
+Author: Alexey <ggromx.89@gmail.com>
+Date:   Thu Jun 13 01:06:55 2024 +0400
+
+    test
+
+[33mcommit 7343ff2d403e604da105a5bdad998426ce16621d[m
+Author: Alexey <ggromx.89@gmail.com>
+Date:   Thu Jun 13 00:49:21 2024 +0400
+
+    changed link
+
+[33mcommit e2c4b3c6472f577009cbe623fd6f774113c4d9d5[m
+Author: Alexey <ggromx.89@gmail.com>
+Date:   Wed Jun 12 23:38:46 2024 +0400
+
+    set a timer
+
+[33mcommit 561fa9bcd756dd3c1802e295700c6299a9c70a6e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 09620e8 e137f42
+Author: Alexey <ggromx.89@gmail.com>
+Date:   Mon Jun 10 21:06:59 2024 +0300
+
+    Merge pull request #3 from GromixX/first-branch-1
+    
+    изменения по макету
+
+[33mcommit e137f42915ff315689edc88be469f29c6cdaade0[m[33m ([m[1;31morigin/first-branch-1[m[33m, [m[1;32mfirst-branch-1[m[33m)[m
+Author: Alexey <ggromx.89@gmail.com>
+Date:   Mon Jun 10 21:02:47 2024 +0300
+
+    изменения по макету
+
+[33mcommit 09620e82825d1cedb07a9e9c95d4ac92a8fc2697[m
+Merge: 3f0f551 c3e3544
+Author: Alexey <ggromx.89@gmail.com>
+Date:   Wed Jun 5 22:23:47 2024 +0400
+
+    Merge pull request #2 from GromixX/first-branch-1
+    
+    всё изменили. all changed
+
+[33mcommit c3e3544abb6a5f3f423eeeaad5fc3d2e633a26c7[m
+Author: Alexey <ggromx.89@gmail.com>
+Date:   Wed Jun 5 22:19:23 2024 +0400
+
+    всё изменили. all changed
+
+[33mcommit 3f0f5511ab85b71524adfa2810668acf86553f8f[m
+Merge: a0bf19c 9e5f8ea
+Author: Alexey <ggromx.89@gmail.com>
+Date:   Wed Jun 5 20:07:11 2024 +0400
+
+    Merge pull request #1 from GromixX/first-branch
+    
+    first file added
+
+[33mcommit 9e5f8ea735c2abf110cc28135edce2e908649b42[m[33m ([m[1;31morigin/first-branch[m[33m)[m
+Author: Александр Подольский <a.a.podolskiy@gmail.com>
+Date:   Wed Jun 5 19:57:34 2024 +0400
+
+    first file added
+
+[33mcommit a0bf19cdaef913d3ceb67e2d48a4aeeb7f3d0afc[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 18:50:23 2020 +0300
+
+    Delete fgh.txt
+
+[33mcommit edce52f873e7ecc20ac9c1ee6dfe4efbaf610c63[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 18:30:42 2020 +0300
+
+    Create fgh.txt
+
+[33mcommit 17e5b9394773d0976d91979a5b89b69b88bb6d9f[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 18:30:22 2020 +0300
+
+    Delete test2.php
+
+[33mcommit 2e962cc2cbcd31762ebba122c5d6267675e7d118[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 18:28:52 2020 +0300
+
+    Update test2.php
+
+[33mcommit 26521397cfbd1b1f71168703fefccb3a6a482715[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 18:28:32 2020 +0300
+
+    Create test2.php
+
+[33mcommit c380234570044555a62b3076fcf5d4a5802adcc0[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 18:28:06 2020 +0300
+
+    Delete test2.php
+
+[33mcommit d33b2598d2f9daf194f538940bb478740a11a4e6[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 18:27:12 2020 +0300
+
+    Create test2.php
+
+[33mcommit d1eced93401b022235971ac91c93565f4cf058c7[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 18:13:26 2020 +0300
+
+    Delete test.php
+
+[33mcommit 2683ca611a9e1bcc998e3135baa88eb286f65f21[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 18:02:12 2020 +0300
+
+    Update test.php
+    
+    test
+
+[33mcommit b44a7e19b178d67e0035bb03dc2c1bab8aae7ab8[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 17:58:32 2020 +0300
+
+    add
+    
+    add 2
+
+[33mcommit 3eee9ce8af274d159c98eb6d02afbe7ceae1f806[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 17:51:53 2020 +0300
+
+    Delete test.php
+
+[33mcommit 29edc7f31731717cf7a9b9227db7fd62976efb11[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 17:42:45 2020 +0300
+
+    Update test.php
+    
+    12345
+
+[33mcommit 9974089d042aa564dc5db2250b6ad01f103dcc3e[m
+Author: GromixX <66826896+GromixX@users.noreply.github.com>
+Date:   Tue Nov 24 17:40:21 2020 +0300
+
+    Create test.php
+    
+    1
